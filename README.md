@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heatherdilorenzo
 - 👀 I’m interested in learning and gaining new skills.
-- 🌱 I’m currently working on my BA in cybersecurity & networking, minor coomputer science
+- 🌱 I’m currently working on my BA in cybersecurity & networking, minor computer science
 
 <!---
 heatherdilorenzo/heatherdilorenzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
